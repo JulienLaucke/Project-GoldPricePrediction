@@ -1,5 +1,5 @@
 # Gold Price Prediction
-
+![Bildbeschreibung](gold_image.png)
 This project aims to predict future gold prices using historical data and various economic indicators. The prediction model is built using a Random Forest Regressor and is evaluated based on its accuracy and performance.
 
 ## Table of Contents
